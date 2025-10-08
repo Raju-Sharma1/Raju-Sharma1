@@ -5,7 +5,7 @@ I started my Corporate career as a Tech Support guy, Always been a Technology en
 Starting Fresh now into Data Science World, I was always facinated into Computer Tech tools and learning programming languages and mostly implementing the languages that I learn in real-world tasks.
 
 Skills: 
-  SQL (SQL server & MySQL).
+  SQL (SQL Server & MySQL).
   Microsoft Excel.
   Python.
   Microsoft PowerBI / Power BI.
