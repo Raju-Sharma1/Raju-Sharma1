@@ -6,6 +6,7 @@ I was always facinated into Computer Tech tools and learning programming languag
 Hence, taken steps towards it, Started Fresh now into Data Science Domain as a career. 
 ** Currently in the Learning Process **
 ** Simultaneously, Implementing and practicing what I learned in self-working Projects **
+
 Skills: 
   SQL (SQL Server & MySQL).
   Microsoft Excel.
