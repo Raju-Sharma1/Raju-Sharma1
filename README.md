@@ -1,11 +1,10 @@
 ## Hello 👋
 
-Hi there! I'm Raju Sharma. Information Technology (IT) Domain Grad.
-Computer Tech enthusiast.
-DATA SCIENCE
+Hi there! I'm Raju Sharma. Information Technology (IT) Grad. IBM Data Analyst Professional Certification ✅VERIFIED.
+Passionate about transforming data into meaningful business insights through EDA, visualization, and dashboard development.
 
 Skills: 
   SQL (SQL Server & MySQL).
-  Microsoft Excel.
   Python.
-  Microsoft PowerBI / Power BI.
+  Microsoft Excel.
+  Power BI.
