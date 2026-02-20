@@ -1,11 +1,17 @@
-## Hello 👋
+## Hi 👋 I'm Raju Sharma
 
-Hi there! I'm Raju Sharma. Information Technology (IT) Grad.
-Holding -🛡️IBM Data Analyst Professional Certification.
-Passionate about transforming data into meaningful business insights through EDA, visualization, and dashboard development.
+🎓 IT Graduate | 🛡️ IBM Data Analyst Professional Certified  
 
-Skills: 
-  SQL (SQL Server & MySQL).
-  Python.
-  Microsoft Excel.
-  Power BI.
+💡 Data enthusiast passionate about:
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+
+### 🛠️ Tech Stack
+- SQL (SQL Server & MySQL)
+- Python
+- Microsoft Excel
+- Power BI
+
+📈 I love building data-driven solutions and sharing analytical projects that solve real-world business problems.
