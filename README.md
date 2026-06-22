@@ -1,17 +1,42 @@
-## Hi 👋 I'm Raju Sharma
+# Hi, I'm Raju Sharma 👋
 
-IT Graduate | 🛡️ IBM Data Analyst Professional Certified  
+### SQL • Python • Power BI • Excel 
 
-Data enthusiast passionate about:
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
+### What I Do
+
+* Analyze business data and deliver actionable insights
+* Perform SQL-based data profiling, validation, and trend analysis
+* Use Python (Pandas & NumPy) for data cleaning and exploratory analysis
+* Build interactive dashboards and KPI reports using Power BI
+* Support ETL workflows, data modeling, and data warehousing
+* Collaborate with stakeholders to translate business requirements into analytics solutions
 
 ### Tech Stack
-- SQL (SQL Server & MySQL)
-- Python
-- Microsoft Excel
-- Power BI
 
-I love building data-driven solutions and sharing analytical projects that solve real-world business problems.
+**Languages & Analytics**
+`SQL` • `Python` • `Pandas` • `NumPy`
+
+**BI & Visualization**
+`Power BI` • `Excel` • `IBM Cognos Analytics`
+
+**Data Engineering**
+`ETL/ELT` • `Data Warehousing` • `Star Schema`
+
+**Tools**
+`SQL Server` • `MySQL` • `Power Query` • `Jupyter Notebook` • `VS Code` • `GitHub`
+
+### Certifications
+
+✔ IBM Certified Data Analyst Professional
+✔ IBM Data Analysis with Python
+✔ HackerRank SQL (Intermediate)
+✔ LeetCode SQL 50 Badge
+✔ CSCMP Supply Chain Foundations Professional
+✔ PMI Analysis & Reporting for Supply Chain Management
+
+### Interests
+
+**Data Analytics • Business Intelligence • Data Engineering • AI Operations**
+
+---
+### Turning data into insights and enabling data-driven decisions.
