@@ -1,6 +1,6 @@
 # Hi, I'm Raju Sharma 👋
 
-Ex-Tech Support → → Core Analytics.
+Ex-IT Support → → Core Analytics.
 
 ### What I Do
 
