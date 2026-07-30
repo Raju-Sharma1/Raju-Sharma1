@@ -1,6 +1,6 @@
 # Hi, I'm Raju Sharma 👋
 
-### SQL • Python • Power BI • Excel 
+Ex-Tech Support → → Core Analytics.
 
 ### What I Do
 
@@ -23,7 +23,7 @@
 `ETL/ELT` • `Data Warehousing` • `Star Schema`
 
 **Tools**
-`SQL Server` • `MySQL` • `Power Query` • `Jupyter Notebook` • `VS Code` • `GitHub`
+`SQL Server` • `MySQL` • `Excel(Formulas, XLOOKUP)` • `Power Query` • `Jupyter Notebook` • `VS Code` • `GitHub`
 
 ### Certifications
 
@@ -36,7 +36,4 @@
 
 ### Interests
 
-**Data Analytics • Business Intelligence • Data Engineering • AI Operations**
-
----
-### Turning data into insights and enabling data-driven decisions.
+**Data Analytics • Business Intelligence • Data Engineering • Data Governance • Data Quality**
